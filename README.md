@@ -1,6 +1,6 @@
 # HelloSAM
 
-This Student Attendance Management(SAM) project was done during Unscript-2k18 24 hours Hackathon for which we won 2nd prize.
+This Student Attendance Management(SAM) project was developed during the Unscript-2k18 within 24 hours Hackathon for which we won the 2nd prize.
 
 ## Technologies Used
 
