@@ -1,6 +1,25 @@
 # HelloSAM
 
-This Student Attendance Management(SAM) project was developed during the Unscript-2k18 within 24 hours Hackathon for which we won the 2nd prize.
+The Student Attendance Management project (HelloSAM) was developed during the Unscript-2k18 hackathon for which our team won the 2nd prize.
+
+## Main Features
+
+1.Biometric Attendance
+
+2.Manual Attendance
+
+3.Attendance Reports using Bar Chart and Pie Chart(using ChartJS)
+
+4.Generating Excel File for Lecture Attendance Summary(for Teachers)
+
+5.File Upload feature for adding Circulars
+
+6.Generating PDF Results(using dompdf)
+
+7.SMS on Student Admission (using Twilio)
+
+8.Email on Student Admission or Addition of new Teachers(using PHPMailer)
+
 
 ## Technologies Used
 
@@ -23,25 +42,7 @@ This Student Attendance Management(SAM) project was developed during the Unscrip
 9.Bootstrap
 
 
-## Main Features
-
-1.Biometric Attendance
-
-2.Manual Attendance
-
-3.Attendance Reports using Bar Chart and Pie Chart(using ChartJS)
-
-4.Generating Excel File for Lecture Attendance Summary(for Teachers)
-
-5.File Upload feature for adding Circulars
-
-6.Generating PDF Results(using dompdf)
-
-7.SMS on Student Admission (using Twilio)
-
-8.Email on Student Admission or Addition of new Teachers(using PHPMailer)
-
-## Steps of Installation 
+## Installation Steps
 
 1.Download or Clone "HelloSAM" from here.
 
